@@ -583,7 +583,7 @@ def close_command(window: tk.Tk, table):
 
 
 def donate_command():
-    webbrowser.open('https://www.buymeacoffee.com/abdbbdii')
+    webbrowser.open('https://www.buymeacoffee.com/abdxdev')
 
 
 main()
