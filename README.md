@@ -1,6 +1,6 @@
 ## Overview
 
-![Screenshot-2023-12-06-173022.png](https://imgur.com/yOW866y.png)
+![alt text](screenshots/showcase.gif)
 
 The Prize Bond Finder Application is a user-friendly tool designed to streamline the management and tracking of prize bonds. With a beautiful GUI, seamless import/export options, and robust features, this application aims to enhance your experience in dealing with prize bonds.
 
@@ -17,8 +17,8 @@ The Prize Bond Finder Application is a user-friendly tool designed to streamline
 
 ## Getting Started
 
-1. Download the Prize Bond Finder Application from [here](https://github.com/abdbbdii/PrizeBondFinder/releases/tag/Release).
-3. Launch the application and start managing your prize bond data effortlessly.
+1. Download the Prize Bond Finder Application from [here](https://github.com/abdxdev/PrizeBondFinder/releases/tag/Release).
+2. Launch the application and start managing your prize bond data effortlessly.
 
 ## Feedback and Support
 
