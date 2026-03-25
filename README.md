@@ -1,6 +1,6 @@
 ## Overview
 
-![alt text](screenshots/showcase.gif)
+![alt text](https://github.com/abdxdev/prize-bond-finder/blob/main/screenshots/showcase.gif?raw=true)
 
 The Prize Bond Finder Application is a user-friendly tool designed to streamline the management and tracking of prize bonds. With a beautiful GUI, seamless import/export options, and robust features, this application aims to enhance your experience in dealing with prize bonds.
 
